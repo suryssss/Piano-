@@ -9,8 +9,6 @@ const NOTES = [
   { white: "A", black: "A#" },
   { white: "B", black: null }
 ];
-
-// EXACT keyboard layout (27 keys total)
 const WHITE_KEYS = [
   "a", "s", "d", "f", "g", "h", "j",
   "k", "l", ";", "'",
